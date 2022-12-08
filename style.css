@@ -10,7 +10,7 @@
 
 :root {
     --bg-color: #ffffff;
-    --second-color: #E3B1D3;
+    --second-color: #82CDC3;
     --main-color: #82CDC3;
     --text-color: #130849;
     --other-color: #999fb9;
@@ -46,7 +46,7 @@ header.sticky{
 
 .logo img {
     max-width: 100%;
-    width: 120px;
+    width: 60px;
     height: auto;
 }
 
@@ -105,6 +105,7 @@ section {
 .home-img img{
 	width: 100%;
 	height: auto;
+    margin-top: 30px;
 }
 
 .home-text h1 {
